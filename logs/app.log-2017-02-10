@@ -1,0 +1,54 @@
+[10 02 2017 05:34:10.501] [DEBUG] - Inside user post
+[10 02 2017 05:39:27.168] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 05:42:21.296] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 06:01:19.218] [DEBUG] - Inside user post
+[10 02 2017 06:03:16.521] [DEBUG] - Inside user post
+[10 02 2017 06:05:16.182] [DEBUG] - Inside user post
+[10 02 2017 06:09:23.413] [DEBUG] - Inside user post
+[10 02 2017 06:21:05.328] [DEBUG] - Inside user post
+[10 02 2017 06:23:42.963] [DEBUG] - Inside user post
+[10 02 2017 06:31:25.523] [DEBUG] - Inside user post
+[10 02 2017 06:31:59.903] [DEBUG] - Inside user post
+[10 02 2017 08:36:03.436] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 08:46:51.961] [DEBUG] - Inside user post
+[10 02 2017 08:56:47.193] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 08:59:40.758] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 09:01:23.808] [DEBUG] - Inside user post
+[10 02 2017 09:02:34.301] [DEBUG] - Inside user post
+[10 02 2017 09:27:42.908] [DEBUG] - Inside user post
+[10 02 2017 09:30:49.771] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 09:34:21.766] [DEBUG] - Inside user post
+[10 02 2017 09:44:13.798] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 09:47:21.460] [DEBUG] - Inside user post
+[10 02 2017 09:51:51.265] [DEBUG] - Inside user post
+[10 02 2017 09:52:22.951] [DEBUG] - Inside user post
+[10 02 2017 09:54:12.513] [DEBUG] - Inside user post
+[10 02 2017 09:54:25.970] [DEBUG] - Inside user post
+[10 02 2017 09:59:05.852] [DEBUG] - Inside user post
+[10 02 2017 10:07:06.625] [DEBUG] - Inside user post
+[10 02 2017 10:07:25.423] [DEBUG] - Inside user post
+[10 02 2017 10:07:47.332] [DEBUG] - Inside user post
+[10 02 2017 11:10:28.445] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[10 02 2017 11:35:10.012] [ERROR] - Error in Mongoose connection:  Error: connection timeout
+    at Db.<anonymous> (/vagrant/express-boilerplate/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:169:17)
+    at emitTwo (events.js:106:13)
+    at Db.emit (events.js:191:7)
+    at Server.listener (/vagrant/express-boilerplate/node_modules/mongodb/lib/db.js:1798:14)
+    at emitOne (events.js:96:13)
+    at Server.emit (events.js:188:7)
+    at Server.<anonymous> (/vagrant/express-boilerplate/node_modules/mongodb/lib/server.js:274:14)
+    at emitOne (events.js:96:13)
+    at Server.emit (events.js:188:7)
+    at Pool.<anonymous> (/vagrant/express-boilerplate/node_modules/mongodb-core/lib/topologies/server.js:335:12)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/express-boilerplate/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/express-boilerplate/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+    at Socket.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:339:8)
+    at ontimeout (timers.js:365:14)
